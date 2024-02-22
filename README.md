@@ -17,6 +17,10 @@ This quiz app is a web application designed to test users' knowledge on various 
 - CSS
 - JavaScript
 
+## Demo
+
+[Link to Live Demo](https://prinston.github.io/Quiz-app/)
+
 ## How to Use
 
 1. Clone this repository.
